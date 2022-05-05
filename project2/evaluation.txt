@@ -1,0 +1,28 @@
+Function implementation:
+	Austin: 
+		printTrieContents
+		freeTrieMemory
+		main
+
+	Tyler:
+		indexPage
+		addWordOccurrence
+
+Other code:
+	Austin:
+		created trienode structure
+		created createNode helper method
+
+	Tyler:
+		created char_to_index method
+
+
+Partner Feedback:
+	We only had about a week to work on this project due to my partner being unavailable for one week.  He was in a different country.
+	I did everything that I could do without doing the entire project.
+
+Project update:
+	I resubmitted project2 again, all methods were completely implemented by me as of now.
+
+		
+		
